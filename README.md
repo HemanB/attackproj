@@ -23,7 +23,7 @@ There are two programs, each of which require you to perform a specific attack.
 
 Follow the steps below to obtain your attack
 targets:
-1. Point your browser at the following URL: https://courses.cs.duke.edu/compsci210d/fall24/student_targets/\<NetID\>, where ``<NetID>`` is your Duke NetID. This directory requires Duke NetID Shibboleth authorization, and you may be prompted to authenticate if you aren't already.
+1. Point your browser at the following URL: https://courses.cs.duke.edu/compsci210d/fall24/student_targets/<NetID\>, where ``<NetID>`` is your Duke NetID. This directory requires Duke NetID Shibboleth authorization, and you may be prompted to authenticate if you aren't already.
 2. Save the files called target1-``<NetID>`` and target2-``<NetID>`` to your local machine (right click "Save link as").
 3. Drag the target1-``<NetID>`` and target2-``<NetID>`` to your container's P4_Attackproj folder
 4. Open a terminal on your container and cd to your attack project directory.
